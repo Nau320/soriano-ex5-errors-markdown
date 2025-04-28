@@ -30,8 +30,8 @@
 * Punt de primers auxilis
 
 ## Transport
-Busos llançadora gratuïts
-Pàrquing privat
+* Busos llançadora gratuïts
+* Pàrquing privat
 
 ##Recomanacions
 * Portar impermeable en cas de pluja
