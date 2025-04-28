@@ -13,7 +13,7 @@
 1. ArcticMonkeys
 1. The Weeknd
 
-##Activitats Addicionals
+## Activitats Addicionals
 - Foodtrucks
 - Tallers artistics
 - *Sessions relax*
