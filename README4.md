@@ -21,7 +21,7 @@
 ## Entrades
 |Tipus|Cost|
 |---|---|
-Normal|55€
+|Normal|55€|
 Premium|150€
 
 ##Normativa
