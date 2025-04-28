@@ -3,9 +3,9 @@
 **Celebra la musica** i l'art a tot arreu.
 
 ## Escenaris Principals:
-- Escenari pop
-- Escenari electronica
-- Escenari indie
+* Escenari pop
+* Escenari electronica
+* Escenari indie
 
 ##Line-up
 1) BillieEilish
