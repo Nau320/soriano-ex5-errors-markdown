@@ -19,8 +19,8 @@
 * *Sessions relax*
 
 ## Entrades
-|Tipus|Cost
-|---|---
+|Tipus|Cost|
+|---|---|
 Normal|55€
 Premium|150€
 
