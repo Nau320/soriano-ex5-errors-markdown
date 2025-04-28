@@ -38,6 +38,6 @@
 * Aplicació oficial amb mapa interactiu
 
 ## Contacte
-Organització Sonoritats 2025
-Suport telefònic 24/7
+*Organització Sonoritats 2025*
+*Suport telefònic 24/7*
 
