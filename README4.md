@@ -8,10 +8,10 @@
 * Escenari indie
 
 ## Line-up
-1) BillieEilish
-2) DavidGuetta
-3) ArcticMonkeys
-4) The Weeknd
+1. BillieEilish
+1. DavidGuetta
+1. ArcticMonkeys
+1. The Weeknd
 
 ##Activitats Addicionals
 - Foodtrucks
