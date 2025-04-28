@@ -14,9 +14,9 @@
 1. The Weeknd
 
 ## Activitats Addicionals
-- Foodtrucks
-- Tallers artistics
-- *Sessions relax*
+* Foodtrucks
+* Tallers artistics
+* *Sessions relax*
 
 ##Entrades
 |Tipus|Cost
